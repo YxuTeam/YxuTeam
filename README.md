@@ -15,11 +15,10 @@
 
    
 <p align="LEFT">
-<img align="LEFT" width="5%" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
-  
+<img align="CENTER" width="5%" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
+  </p>
+
 - [x] Script hub alpha 
-     </p>
-      
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
 - [x] my website :tada: [https://zeltales.com](https://zeltales.com)
