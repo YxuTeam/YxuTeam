@@ -36,9 +36,9 @@
 - ⚡ Fun fact **SHEEEEEEESH**
   
 <p align="left">
-<img align="center" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035689163070128199/output-onlinegiftools.gif"
+<img align="center" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035690258437787668/20221029_010313.gif"
   </p>
-###why he are the best 
+
 
     
 <h3 align="left">Connect with me:</h3>
