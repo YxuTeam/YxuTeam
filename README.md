@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/yxuteam" target="blank"><img src="https://img.shields.io/twitter/follow/yxuteam?logo=twitter&style=for-the-badge" alt="yxuteam" /></a> </p>
 
-- Sripts **Eternal Hub**
-
-- Bots discord **King Kush**
-
-- Website **YxuTeam.com**
-
 - 👨‍💻SOON [https://yxuteam.com](https://yxuteam.com)
 
 - 📝 my website test [https://zeltales.com](https://zeltales.com)
