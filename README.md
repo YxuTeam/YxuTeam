@@ -28,8 +28,8 @@
 <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035642700508180480/Welcome2-1-3-11-1.gif"
   </p>
 
-<p align="right">
-<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035698511108378684/output-onlinegiftools_2.gif"
+<p align="center">
+<img align="right" width=30%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035698511108378684/output-onlinegiftools_2.gif"
  </p>
    
 - 💬 Ask me **24/7 in discord Zeltales#8854**
