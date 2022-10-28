@@ -14,12 +14,12 @@
      </p>
 
   
-  <p align="left"
+ 
 - [x] Script hub alpha 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
 - [x] my website :tada: [https://zeltales.com](https://zeltales.com)
-     </p>
+     
 
 - 💬 Ask me **24/7 in discord Zeltales#8854**
 
