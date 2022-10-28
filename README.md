@@ -7,15 +7,6 @@
      </p>
 
      
-     const raphael = new Object();
-function God() {
-  if(raphael.diplomes > 0){
-    return console.log("I'm you'r graduate men !");
-  }
- return console.log("Sorry, i can do nothing for you.");
-}
-
-     
      1. why Yxu team
    - first listen Scarlxrd
      - Second love song 
