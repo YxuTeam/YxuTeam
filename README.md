@@ -3,8 +3,8 @@
    </p>
 
  
-
-<p   align="right">
+   
+<p  <p align="right">
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
 
@@ -13,9 +13,9 @@
     - first listen Scarlxrd
     - Second love song
         
-<p align="left">
+<p  <p align="left">
 <img align="left" width="300" src="<p <p align="right">
-<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
+<img align="right" width="300" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
      </p>
      
    
