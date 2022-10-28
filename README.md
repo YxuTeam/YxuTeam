@@ -1,8 +1,7 @@
-<h1 <p align="center">
+<h1 align="center">SUP gang</h1
+<h3 <p align="center">
 <img align="center" width="750" src="https://media.discordapp.net/attachments/1005880880914505780/1035614113549783100/20220928_110527.jpg"
-     </p>
-</h1>
-<h3 align="center">Yxu team</h3>
+     </p> </h3>
 
 <p align="right">
 <img align="right" width="150" src="https://media.discordapp.net/attachments/1005880880914505780/1035604553262964776/20221027_201723.png"
@@ -24,9 +23,7 @@
 - 📫 How to reach me **zeltales@gmail.com**
 
 - ⚡ Fun fact **SHEEEEEEESH**
-<p align="center">
-<img align="center" width="750" src="https://media.discordapp.net/attachments/1005880880914505780/1035614113549783100/20220928_110527.jpg"
-     </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yxuteam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yxuteam" height="30" width="40" /></a>
