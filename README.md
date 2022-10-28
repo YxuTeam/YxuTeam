@@ -5,12 +5,15 @@
 <p align="right">
 <img align="right" width="150" src="https://media.discordapp.net/attachments/1005880880914505780/1035604553262964776/20221027_201723.png"
      </p>
- who we are check this [^1].
+Here is a simple flow chart:
 
-[^1]: My reference.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
+```mermaid
+graph TD;
+    me-->u;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 1. why Yxu team
    - first listen Scarlxrd
      - Second love song 
