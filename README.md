@@ -29,9 +29,9 @@
   </p>
 
 <p align="right">
-<img align="center" width="40%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035697781588893758/output-onlinegiftools_1.gif"
- 
-     </p>
+<img align="center" width="10%" src="[https://cdn.discordapp.com/attachments/1005878001273151528/1035697781588893758/output-onlinegiftools_1.gif](https://cdn.discordapp.com/attachments/1005878001273151528/1035697781588893758/output-onlinegiftools_1.gif)"
+ </p>
+   
 - 💬 Ask me **24/7 in discord Zeltales#8854**
 
 - 📫 How to reach me **zeltales@gmail.com**
