@@ -15,6 +15,7 @@
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
 - [x] website zeltales :tada: [https://zeltales.com](https://zeltales.com)
      
+
 - 💬 Ask me **24/7 in discord Zeltales#8854**
 
 - 📫 How to reach me **zeltales@gmail.com**
