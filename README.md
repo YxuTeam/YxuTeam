@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **SHEEEEEEESH**
 
-<p align="center">
+<p align="left">
 <img align="left" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035682433502285854/20221029_002837.gif"
   </p>
     
