@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **SHEEEEEEESH**
 <p align="center">
-<img align="center" width="500" src="https://media.discordapp.net/attachments/1005880880914505780/1035614113549783100/20220928_110527.jpg"
+<img align="center" width="750" src="https://media.discordapp.net/attachments/1005880880914505780/1035614113549783100/20220928_110527.jpg"
      </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
