@@ -10,7 +10,7 @@
 
 
 
-<p  align="left">
+<p  align="center">
 <img align="left" width="300" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
      </p>
    
