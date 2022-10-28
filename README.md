@@ -13,13 +13,14 @@
 - Waza
 - Zeltales
 
-waza <details>
+waza 
+<details>
 <summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     3| Python    |
-
+ </details>
      
 1. why Yxu team
    -first listen Scarlxrd
