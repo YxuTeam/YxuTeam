@@ -11,9 +11,11 @@
  1. why Yxu team
     - first listen Scarlxrd
     - Second love song
-         <p <p align="right">
+        
+<p <p align="right">
 <img align="right" width="" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
+   
 - [x] Script hub alpha 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
