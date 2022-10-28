@@ -25,7 +25,7 @@
      
    
  <p align="center">
-<img align="left" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035642700508180480/Welcome2-1-3-11-1.gif"
+<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035642700508180480/Welcome2-1-3-11-1.gif"
   </p>
 
 
@@ -36,7 +36,7 @@
 - ⚡ Fun fact **SHEEEEEEESH**
   
 <p align="center">
-<img align="center" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035689163070128199/output-onlinegiftools.gif"
+<img align="left" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035689163070128199/output-onlinegiftools.gif"
   </p>
 ###why he are the best 
 
