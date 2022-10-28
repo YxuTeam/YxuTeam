@@ -5,7 +5,7 @@
  
    
 <p  align="right">
-<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
+<img align="right" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
 
     1. why Yxu team
