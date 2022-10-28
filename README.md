@@ -4,7 +4,7 @@
 
  
 
-<p <p align="right">
+<p   align="right">
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
 
@@ -13,7 +13,11 @@
     - first listen Scarlxrd
     - Second love song
         
-
+<p align="left">
+<img align="left" width="300" src="<p <p align="right">
+<img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
+     </p>
+     
    
 - [x] Script hub alpha 
 - [x] Bot online
