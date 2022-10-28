@@ -8,12 +8,12 @@
 
  1. why Yxu team
     - first listen Scarlxrd
-      - Second love song
+    - Second love song
          
-- [x] script hub start
+- [x] Script hub alpha 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
-- [x] website zeltales :tada: [https://zeltales.com](https://zeltales.com)
+- [x] my website :tada: [https://zeltales.com](https://zeltales.com)
      
 
 - 💬 Ask me **24/7 in discord Zeltales#8854**
