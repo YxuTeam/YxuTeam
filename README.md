@@ -13,9 +13,9 @@
     - Second love song
 
 
-
+<p>
 <img align="right" width="55%" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
-   
+     </p>
 - [x] Script hub alpha 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
