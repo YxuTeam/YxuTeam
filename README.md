@@ -10,15 +10,6 @@
     - first listen Scarlxrd
       - Second love song
          
-Team[^1].
-
-2 member[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-
-
-
 - [x] script hub start
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
