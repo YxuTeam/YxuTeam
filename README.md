@@ -5,14 +5,18 @@
 <p align="right">
 <img align="right" width="150" src="https://media.discordapp.net/attachments/1005880880914505780/1035604553262964776/20221027_201723.png"
      </p>
-const raphael = new Object();
+
+     
+     const raphael = new Object();
 function God() {
   if(raphael.diplomes > 0){
     return console.log("I'm you'r graduate men !");
   }
  return console.log("Sorry, i can do nothing for you.");
 }
-1. why Yxu team
+
+     
+     1. why Yxu team
    - first listen Scarlxrd
      - Second love song 
          
