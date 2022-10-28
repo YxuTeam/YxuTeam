@@ -10,8 +10,13 @@
     - first listen Scarlxrd
       - Second love song
          
-- Waza
-- Zeltales
+Team[^1].
+
+2 member[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+
 
 
 - [x] script hub start
