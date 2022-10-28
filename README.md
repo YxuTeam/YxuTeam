@@ -6,16 +6,6 @@
 <img align="right" width="150" src="https://media.discordapp.net/attachments/1005880880914505780/1035604553262964776/20221027_201723.png"
      </p>
  
- - 👨‍💻SOON [https://yxuteam.com](https://yxuteam.com)
-
-- 📝 my website test [https://zeltales.com](https://zeltales.com)
-
-- 💬 Ask me **24/7 in discord Zeltales#8854**
-
-- 📫 How to reach me **zeltales@gmail.com**
-
-- ⚡ Fun fact **SHEEEEEEESH**
-
 1. why Yxu team
    - first listen Scarlxrd
      - Second love song 
@@ -24,10 +14,16 @@
 - Waza
 - Zeltales
 - Maik
-- [x] YxuTeam.com (soon) 
+- [x] script hub start
 - [x] Bot online
-- [ ] script hub start
-- [ ] website zeltales :tada:
+- [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
+- [x] website zeltales :tada: [https://zeltales.com](https://zeltales.com)
+     
+- 💬 Ask me **24/7 in discord Zeltales#8854**
+
+- 📫 How to reach me **zeltales@gmail.com**
+
+- ⚡ Fun fact **SHEEEEEEESH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
