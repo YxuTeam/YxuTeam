@@ -8,13 +8,6 @@
 <img align="right" width="30%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
 
-
-<p align="left">
-<img align="left" width="20%" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
-     </p>
-
-  
- 
 - [x] Script hub alpha 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
