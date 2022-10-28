@@ -1,16 +1,16 @@
-<p  <p align="center">
+<p  align="center">
 <img align="center" width="2000" src="https://media.discordapp.net/attachments/1005880880914505780/1035632566998417599/20221028_211400.jpg?width=1080&height=162"
    </p>
 
  
    
-<p  <p align="right">
+<p  align="right">
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
      </p>
 
 
 
-<p  <p align="left">
+<p  align="left">
 <img align="left" width="300" src="https://media.discordapp.net/attachments/1005880880914505780/1035633698680340480/20221028_211832.png?width=559&height=559"
      </p>
    
