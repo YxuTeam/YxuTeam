@@ -1,19 +1,24 @@
-<h1 align="center">Sup BOOOOOOOOIIIIIIIIIII we are yxu team</h1>
-<h3 align="center">we are yxu team</h3>
+<h1 align="center">Supgang</h1>
+<h3 align="center">Yxu team</h3>
 
 <p align="left"> <a href="https://twitter.com/yxuteam" target="blank"><img src="https://img.shields.io/twitter/follow/yxuteam?logo=twitter&style=for-the-badge" alt="yxuteam" /></a> </p>
 <p align="right">
 <img align="right" width="150" src="https://media.discordapp.net/attachments/1005880880914505780/1035604553262964776/20221027_201723.png"
      </p>
-
+# sup.
+## im zeltales
+### french dev
+ 
+   * Team
+     *waza
+     *Maik
+     *zeltales
+     
 1. why Yxu team
    - first listen Scarlxrd
      - Second love song 
          
- TEAM
-- Waza
-- Zeltales
-- Maik
+
 - [x] script hub start
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
