@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yxuteam" target="blank"><img src="https://img.shields.io/twitter/follow/yxuteam?logo=twitter&style=for-the-badge" alt="yxuteam" /></a> </p>
 
+![Image Profil](https://cdn.discordapp.com/icons/987776284832722964/a_66b6da6b0e51febf59d2404f5f344ddb.gif?size=4096)
 - 👨‍💻SOON [https://yxuteam.com](https://yxuteam.com)
 
 - 📝 my website test [https://zeltales.com](https://zeltales.com)
