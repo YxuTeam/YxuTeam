@@ -36,7 +36,7 @@
 - ⚡ Fun fact **SHEEEEEEESH**
 
 <p align="center">
-<img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035680639837556836/20221029_002349.gif"
+<img align="center" width="20%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035680639837556836/20221029_002349.gif"
   </p>
     
 <h3 align="left">Connect with me:</h3>
