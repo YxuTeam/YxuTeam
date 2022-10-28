@@ -27,6 +27,10 @@
  <p align="center">
 <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035642700508180480/Welcome2-1-3-11-1.gif"
   </p>
+<p  align="right">
+<img align="right" width="30%" src="<p  align="right">
+<img align="right" width="30%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
+     </p>
 
 
 - 💬 Ask me **24/7 in discord Zeltales#8854**
