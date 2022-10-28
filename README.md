@@ -35,8 +35,8 @@
 
 - ⚡ Fun fact **SHEEEEEEESH**
   
-<p align="center">
-<img align="left" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035689163070128199/output-onlinegiftools.gif"
+<p align="left">
+<img align="center" width="50%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035689163070128199/output-onlinegiftools.gif"
   </p>
 ###why he are the best 
 
