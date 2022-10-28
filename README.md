@@ -29,7 +29,7 @@
   </p>
 <p  align="right">
 <img align="right" width="30%" src="<p  align="right">
-<img align="right" width="30%" src="https://cdn.discordapp.com/attachments/1005880880914505780/1035631679265570846/Dragon_zeltales_.png?size=4096"
+<img align="right" width="30%" src="https://cdn.discordapp.com/attachments/1005878001273151528/1035696234192703518/output-onlinegiftools.gif"
      </p>
 
 
