@@ -19,6 +19,7 @@
   </p>
 
 - [x] Script hub alpha 
+- [x] UI Yxu 
 - [x] Bot online
 - [ ] YxuTeam.com (soon) [https://yxuteam.com](https://yxuteam.com)
 - [x] my website :tada: [https://zeltales.com](https://zeltales.com)
