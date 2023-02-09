@@ -33,6 +33,6 @@
 <p align="center">
 <a href="https://twitter.com/yxuteam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yxuteam" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/yxuteam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/yxuteam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmxvwwntfph6gcvnkilmnow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmxvwwntfph6gcvnkilmnow" height="30" width="40" /></a>
-   <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.youtube.com/channel/ucmxvwwntfph6gcvnkilmnow" height="30" width="40" /></a>
+
+   <a href="https://discord.gg/eternal-987776284832722964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eternal-987776284832722964" height="30" width="40" /></a>
 </p>
