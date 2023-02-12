@@ -22,22 +22,32 @@
 ## SKILL
 LANGUAGES 
   <div align="left">  
-<a  target="_blank"><img style="margin: 10px" src="https://i.imgur.com/sBXroji.png" alt="C#" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/48cPMJc.png" alt="css" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/LWQ3wLt.png" alt="HTML5" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/lfYvH1M.png" alt="PY" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/DK4eYsq.png" alt="js" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/QCurofw.png" alt="c" height="50" /></a>  
+<img style="margin: 10px" src="https://i.imgur.com/sBXroji.png" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/48cPMJc.png" alt="css" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/LWQ3wLt.png" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/lfYvH1M.png" alt="PY" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/DK4eYsq.png" alt="js" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/QCurofw.png" alt="c" height="50" />  
 </div>
 
 DESIGN / EDITOR
   <div align="left">  
-<a  target="_blank"><img style="margin: 10px" src="https://i.imgur.com/ztay8Sk.png" alt="PR" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/BmwwsFB.png" alt="id" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/VDwBteI.png" alt="AI" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/GP5V1Hz.png" alt="fig" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/gxr7i04.png" alt="xd" height="50" /></a>  
-<img style="margin: 10px" src="https://i.imgur.com/UX75NfK.png" alt="ps" height="50" /></a>  
+<img style="margin: 10px" src="https://i.imgur.com/ztay8Sk.png" alt="PR" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/BmwwsFB.png" alt="id" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/VDwBteI.png" alt="AI" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/GP5V1Hz.png" alt="fig" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/gxr7i04.png" alt="xd" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/UX75NfK.png" alt="ps" height="50" />  
+</div>
+
+TOOLS
+  <div align="left">    
+<img style="margin: 10px" src="https://i.imgur.com/CaQx32P.png" alt="vs" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/0mktWKP.png" alt="vsc" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/2J4lZ9N.png" alt="git" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/rAHVZZP.png" alt="railway" height="50" /> 
+<img style="margin: 10px" src="https://i.imgur.com/BYauOzd.png" alt="replit" height="50" />  
+</div>
 </div>
 
 ## TEAM 
