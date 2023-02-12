@@ -11,11 +11,8 @@
 
 ##
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5A2F7&width=435&lines=Welcome+in++Yxu+development)
- 
-<p  align="right">
-<img align="right"  width="30%" src="https://i.imgur.com/qtgW4d4.png"
-     </p> 
-   
+
+
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YxuTeam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
  
