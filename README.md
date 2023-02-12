@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welcome in our Profil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" /> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=E5A2F7&center=true&vCenter=true&width=550&lines=Welcome+in+Yxu+development;Founder+Zeltales;Manager%2FDev+Waza"  /> </h1>
 
 
 ![Header](https://i.imgur.com/f2vG42p.png) 
@@ -10,11 +10,10 @@
 
 
 ##
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5A2F7&width=435&lines=Welcome+in++Yxu+development)
 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YxuTeam&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YxuTeam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+ 
  
 ## SKILL
 LANGUAGES 
