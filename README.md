@@ -24,7 +24,7 @@
 ## TEAM 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/967182770331865088)](https://discord.com/users/967182770331865088)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/959534223293833256)](https://discord.com/users/959534223293833256)
 
 ##
 ![Flooter](https://i.imgur.com/Hxd9CMy.png) 
