@@ -10,6 +10,7 @@
 
 ➜ Yscripts  : https://yscripts.net/
 ➜ YxuTeam : https://yxuteam.tk/
+➜ BetaWB  : https://betawb.com/
 ##
 
 
