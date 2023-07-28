@@ -8,9 +8,9 @@
 
    <a href="https://www.youtube.com/channel/UCMXvwwnTfpH6GCvnkilmnOw?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>   ![Views](https://img.shields.io/youtube/channel/views/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge) ![Subs](https://img.shields.io/youtube/channel/subscribers/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YxuTeam&style=for-the-badge)
 
-➜ Yscripts  : https://yscripts.net/
-➜ YxuTeam : https://yxuteam.tk/
-➜ BetaWB  : https://betawb.com/
+➜ Yscripts  : https://yscripts.net/  
+➜ YxuTeam : https://yxuteam.tk/  
+➜ BetaWB  : https://betawb.com/  
 ##
 
 
