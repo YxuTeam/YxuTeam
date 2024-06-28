@@ -8,14 +8,14 @@
 
    <a href="https://www.youtube.com/channel/UCMXvwwnTfpH6GCvnkilmnOw?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>   ![Views](https://img.shields.io/youtube/channel/views/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge) ![Subs](https://img.shields.io/youtube/channel/subscribers/UCMXvwwnTfpH6GCvnkilmnOw?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YxuTeam&style=for-the-badge)
 
-➜ Yscripts  : https://yscripts.net/  
-➜ YxuTeam : https://yxuteam.com/  
-➜ BetaWB  : https://betawb.com/  
-##
+➜ YxuTeam    : https://yxuteam.com/  
+➜ Slash Bot  : https://slash.yxuteam.com/  
+
+## ACTIVITY
 
 
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YxuTeam&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YxuTeam&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" width="9999" align="center" /></div>
 
  
  
@@ -31,18 +31,9 @@
 
 
 
-##
-
-# Upgrade Your Roblox Experience with Arceus Xv3
-### ➜ Arceus Xv3  : https://spdmteam.com/
-### <p align="left">[![Arceus X](https://discord.com/api/guilds/991702878257422347/widget.png?style=banner4)](https://discord.gg/Arceus)</p> 
-
-Join The Elite Club Of Roblox Mobile Players With The Revolutionary Mod Menu 
+## SKILLS
 
 
-
-
------
 ![Flooter](https://i.imgur.com/Hxd9CMy.png) 
 
-### <p align="">[![zelty et Wasus](https://discord.com/api/guilds/987776284832722964/widget.png?style=banner4)](https://discord.gg/eternal-987776284832722964)</p>
+### <p align="">[![zelty et Wasus](https://discord.com/api/guilds/987776284832722964/widget.png?style=banner3)](https://discord.gg/eternal-987776284832722964)</p>
